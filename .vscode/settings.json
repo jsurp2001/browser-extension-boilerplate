@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/.vscode": true,
+        "**/composer.*": true,
+        "**/LICENSE": true,
+        "**/phpunit.xml.dist": true,
+        "**/README.md": true,
+        "**/spark": true
+    },
+    "hide-files.files": []
+}
