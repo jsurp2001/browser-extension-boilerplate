@@ -1,4 +1,4 @@
-# Recon-ng
+# ![Recon-ng Icon](https://upload.wikimedia.org/wikipedia/commons/6/67/OpenSource_Logo.svg) Recon-ng
 
 ## 1. Name of the Software:
 **Recon-ng**  
